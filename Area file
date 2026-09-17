@@ -1,0 +1,27 @@
+# Area of Circle
+r = float(input("Enter radius: "))
+circle = 3.14 * r * r
+print("Area of Circle =", circle)
+
+# Area of Rectangle
+l = float(input("Enter length: "))
+b = float(input("Enter breadth: "))
+rectangle = l * b
+print("Area of Rectangle =", rectangle)
+
+# Area of Square
+s = float(input("Enter side: "))
+square = s * s
+print("Area of Square =", square)
+
+Output example:
+	
+Enter radius: 5
+Area of Circle = 78.5
+
+Enter length: 10
+Enter breadth: 5
+Area of Rectangle = 50.0
+
+Enter side: 4
+Area of Square = 16.
