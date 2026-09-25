@@ -1,0 +1,43 @@
+a = 33
+b = 200
+
+if b > a:
+    print("b is greater than a")
+    
+    
+    count = 0
+
+while (count < 9):
+    print("The count is:", count)
+    count = count + 1
+
+print("Good bye!")
+
+a = 200
+b = 20
+
+if b > a:
+    print("b is greater than a")
+elif a == b:
+    print("a and b are equal")
+else:
+    print("a is greater than b")
+    
+    
+ var = 100
+
+if var < 200:
+    print("Expression value is less than 200")
+
+    if var == 150:
+        print("Which is 150")
+    elif var == 100:
+        print("Which is 100")
+    elif var == 50:
+        print("Which is 50")
+    elif var < 50:
+        print("Expression value is less than 50")
+    else:
+        print("Could not find true expression")
+
+print("Good bye!")
