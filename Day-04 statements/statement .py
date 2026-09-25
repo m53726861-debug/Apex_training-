@@ -41,3 +41,8 @@ if var < 200:
         print("Could not find true expression")
 
 print("Good bye!")
+
+
+output
+
+b is greater than a
