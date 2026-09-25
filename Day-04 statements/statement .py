@@ -58,3 +58,9 @@ The count is: 6
 The count is: 7
 The count is: 8
 Good bye!
+
+a is greater than b
+
+Expression value is less than 200
+Which is 100
+Good bye!
