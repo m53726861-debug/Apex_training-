@@ -26,3 +26,12 @@ students = ["", "", ""]
 new_student = "Priya"
 students.append(new_student)
 print("Update Student-", students)
+
+
+output:
+
+Update Student- ['Arun', 'Bala', 'Kavin', 'Ravi']
+Update Student- ['Arun', 'Bala', 'Ravi']
+Update Student- ['Kavin', 'Mohan']
+Update Student- ['Priya']
+Update Student- ['', '', '', 'Priya']
