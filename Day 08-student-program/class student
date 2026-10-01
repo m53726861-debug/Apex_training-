@@ -18,3 +18,13 @@ student1.display_details()
 print()
 
 student2.display_details()
+
+output :
+
+Name: Maha
+Age: 18
+Marks: 85.5
+
+Name: Yoga
+Age: 18
+Marks: 90.0
